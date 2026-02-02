@@ -43,10 +43,10 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
   <table>
     <tr>
       <td>
-        <img src="CoverImages/PostorCoverBack.png" alt="Elfvian Gameplay Poster" width="400" height="750">
+        <img src="CoverImages/PosterCoverBack.png" alt="Elfvian Gameplay Poster" width="400" height="750">
       </td>
       <td>
-        <img src="CoverImages/PostorCoverSide.png" alt="Elfvian Gameplay Poster Part 1" width="400" height="750">
+        <img src="CoverImages/PosterCoverSide.png" alt="Elfvian Gameplay Poster Part 1" width="400" height="750">
       </td>
     </tr>
   </table>
