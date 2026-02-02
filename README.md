@@ -58,8 +58,9 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
 
 <div align="center">
   <h2>Key Features</h2>
-  Open-world exploration with diverse landscapes and hidden areas.
-  Combat against monsters using weapons, magic, and strategy.
+  
+  - Open-world exploration with diverse landscapes and hidden areas.
+  - Combat against monsters using weapons, magic, and strategy.
   Collect rare artifacts, enchanted items, and spells.
   Dynamic NPC interactions and branching storylines.
   Quests and achievements that impact the game world.
