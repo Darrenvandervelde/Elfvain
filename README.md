@@ -30,6 +30,6 @@ Will you survive… or become part of the world’s forgotten history?
 <br />
 <div align="center">
   <H2>Gameplay</H2>
-  <img src="CoverImages/ElfvianBackPoster.png" width="500" height="750">
-  <img src="CoverImages/ElfvianPosterPart1.png" width="500" height="750">
+  <img src="CoverImages/ElfvianBackPoster.png" width="400" height="750">
+  <img src="CoverImages/ElfvianPosterPart1.png" width="400" height="750">
 </div>
