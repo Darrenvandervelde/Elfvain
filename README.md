@@ -1,4 +1,4 @@
-![ElfvianPoster](ElfvianPoster.png)
+![ElfvianPoster](CoverImages/ElfvianPoster.png)
 
 <div align="center">
   <h1>Elfvian</h1>
