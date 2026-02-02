@@ -73,7 +73,7 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
 
 <div align="center">
   <h2>System Requirements</h2>
-</div>
+
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
     </td>
   </tr>
 </table>
-
+</div>
 <br />
 
 <div align="center">
