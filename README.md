@@ -1,13 +1,15 @@
 <br />
 
-![Poster](CoverImages/PosterCover.png) 
+<div align="center">
+  <img src="CoverImages/PosterCover.png">
+</div>
 
 <br />
 
 <div align="center">
   <h1>Game Overview</h1>
 </div>
-
+e
 <br />
 
 <div align="left">
