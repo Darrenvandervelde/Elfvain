@@ -7,7 +7,7 @@
 <div align="Left">
   <p>
 
-🌿 Welcome to the World of Elfvian
+<strong>🌿</strong> Welcome to the World of Elfvian
 
 Step into Elfvian, a vast enchanted realm where survival depends on skill, courage, and magic. Battle dangerous monsters that roam ancient forests, ruined kingdoms, and           hidden realms as you fight to stay alive and uncover the secrets of this mystical world.
 
@@ -17,7 +17,7 @@ Meet a cast of exciting NPCs, each with unique personalities, stories, and inter
 
 In Elfvian, every path is a choice, every battle is a test, and every legend begins with you.
 
-Will you survive… or become part of the world’s forgotten history?
+Will you survive… or become part of the world’s forgotten history?  🌿
   
   </p>
 </div>
