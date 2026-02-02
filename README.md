@@ -1,6 +1,6 @@
 <br />
 
-![Poster](CoverImages/ElfvianPoster.png) 
+![Poster](CoverImages/ElfvianPoster.jpg) 
 
 <br />
 
