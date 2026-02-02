@@ -55,3 +55,65 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
 </div>
 
 <br />
+
+<div align="center">
+  <h2>Key Features</h2>
+</div>
+
+<ul>
+  <li>Open-world exploration with diverse landscapes and hidden areas.</li>
+  <li>Combat against monsters using weapons, magic, and strategy.</li>
+  <li>Collect rare artifacts, enchanted items, and spells.</li>
+  <li>Dynamic NPC interactions and branching storylines.</li>
+  <li>Quests and achievements that impact the game world.</li>
+  <li>Pixel art / fantasy-inspired visuals for an immersive experience.</li>
+</ul>
+
+<br />
+
+<div align="center">
+  <h2>System Requirements</h2>
+</div>
+
+<table>
+  <tr>
+    <td><strong>Minimum</strong></td>
+    <td><strong>Recommended</strong></td>
+  </tr>
+  <tr>
+    <td>
+      OS: Windows 10 / Linux / macOS<br>
+      Processor: Intel i3 / AMD Ryzen 3<br>
+      Memory: 4 GB RAM<br>
+      Graphics: Intel HD 4000 / AMD Radeon<br>
+      Storage: 2 GB available space
+    </td>
+    <td>
+      OS: Windows 11 / Linux / macOS<br>
+      Processor: Intel i5 / AMD Ryzen 5<br>
+      Memory: 8 GB RAM<br>
+      Graphics: NVIDIA GTX 1050 / AMD RX 560<br>
+      Storage: 4 GB available space
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <h2>Download & Play</h2>
+  <p>
+    [Download Elfvian](#) • [Game Trailer](#) • [Official Wiki](#)
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>Connect with Us</h2>
+  <p>
+    <a href="https://twitter.com/yourgamehandle">Twitter</a> • 
+    <a href="https://discord.gg/yourdiscord">Discord</a> • 
+    <a href="https://www.youtube.com/yourchannel">YouTube</a>
+  </p>
+</div>
