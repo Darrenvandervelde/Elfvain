@@ -58,7 +58,7 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
 
 <div align="center">
   <h2>Key Features</h2>
-</div>
+
 
 <ul>
   <li>Open-world exploration with diverse landscapes and hidden areas.</li>
@@ -68,7 +68,7 @@ In Elfvian, every path is a choice, every battle is a test, and every legend beg
   <li>Quests and achievements that impact the game world.</li>
   <li>Pixel art / fantasy-inspired visuals for an immersive experience.</li>
 </ul>
-
+</div>
 <br />
 
 <div align="center">
