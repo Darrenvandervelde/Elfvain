@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-  <img src="CoverImages/PosterCover.png">
+  <img src="CoverImages/ElfvianPoster.png">
 </div>
 
 <br />
