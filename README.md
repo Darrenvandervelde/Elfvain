@@ -1,12 +1,11 @@
 ![ElfvianPoster](CoverImages/ElfvianPoster.png)
 
 <div align="center">
-  <h1>Elfvian</h1>
+  <h1>Game Overview</h1>
 </div>
 
-<div align="center">
-  <H2>Overview</H2>
-  <p align="left">
+<div align="Left">
+  <p>
 
 🌿 Welcome to the World of Elfvian
 
