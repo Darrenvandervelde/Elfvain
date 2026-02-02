@@ -13,6 +13,6 @@
 
 <div align="center">
   <H2>Gameplay</H2>
-  <img src="CoverImages/ElfvianBackPoster.png" width="300" height="500">
-  <img src="CoverImages/ElfvianPosterPart1.png" width="300" height="500">
+  <img src="CoverImages/ElfvianBackPoster.png" width="500" height="750">
+  <img src="CoverImages/ElfvianPosterPart1.png" width="500" height="750">
 </div>
