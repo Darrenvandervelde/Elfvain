@@ -7,7 +7,7 @@
 <div align="center">
   <H2>Overview</H2>
   <p>
-    
+    Welcome to the World of Elfvian. Were you fight monster to survive and collect rare magic.
   </p>
 </div>
 
