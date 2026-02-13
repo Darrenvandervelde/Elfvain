@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Elfvian - The Enchanted Realm</title>
+<!-- Google Fonts for a fantasy feel -->
+<link href="https://fonts.googleapis.com/css2?family=MedievalSharp&family=Roboto&display=swap" rel="stylesheet" />
+<style>
+  /* Reset Styles */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #f0f0f0;
+    line-height: 1.6;
+  }
+
+  /* Header Styles */
+  header {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px 20px;
+    text-align: center;
+    border-bottom: 3px solid #4CAF50;
+  }
+
+  header h1 {
+    font-family: 'MedievalSharp', cursive;
+    font-size: 3em;
+    color: #f0f0f0;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px #000;
+  }
+
+  header p {
+    font-size: 1.2em;
+  }
+
+  /* Cover Image */
+  .cover-image {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .cover-image img {
+    width: 80%;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  }
+
+  /* Section Styles */
+  section {
+    padding: 40px 20px;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 20px auto;
+    max-width: 1200px;
+    border-radius: 15px;
+  }
+
+  section h2 {
+    font-family: 'MedievalSharp', cursive;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #4CAF50;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 10px;
+  }
+
+  /* Game Overview */
+  .overview p {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+
+  /* Gameplay Images */
+  .gameplay-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .gameplay-images img {
+    width: 45%;
+    border-radius: 10px;
+    border: 2px solid #4CAF50;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .gameplay-images img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #4CAF50;
+  }
+
+  /* Features List */
+  ul.features {
+    list-style: none;
+    margin-top: 20px;
+  }
+
+  ul.features li {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    font-size: 1.1em;
+    transition: background 0.3s;
+  }
+
+  ul.features li:hover {
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  /* System Requirements Table */
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid #4CAF50;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #2c5364;
+    color: #f0f0f0;
+  }
+
+  /* Download & Connect Sections */
+  .download, .connect {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  a.button {
+    display: inline-block;
+    margin: 10px;
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 1.2em;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: background 0.3s;
+  }
+
+  a.button:hover {
+    background-color: #388E3C;
+  }
+
+  /* Footer */
+  footer {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1em;
+  }
+
+  /* Responsive Design */
+  @media(max-width: 768px){
+    .gameplay-images {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .gameplay-images img {
+      width: 80%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Elfvian</h1>
+  <p>The Enchanted Realm Awaits You</p>
+</header>
+
+<!-- Cover Image -->
+<div class="cover-image">
+  <img src="CoverImages/ElfvianPoster.jpg" alt="Elfvian Poster" />
+</div>
+
+<!-- Game Overview -->
+<section class="overview" id="overview">
+  <h2>Game Overview</h2>
+  <p>🌿 <strong>Welcome to the World of Elfvian</strong> 🌿</p>
+  <p>Step into <strong>Elfvian</strong>, a vast enchanted realm where survival depends on skill, courage, and magic. Battle dangerous monsters roaming ancient forests, ruined kingdoms, and hidden realms as you fight to stay alive and uncover the secrets of this mystical world.</p>
+  <p>Collect rare magical artifacts, enchanted weapons, and ancient spells scattered across the land. Each discovery strengthens your abilities and shapes your journey.</p>
+  <p>Meet a cast of exciting <strong>NPCs</strong>, each with unique personalities, stories, and interactive choices. Your decisions influence alliances, unlock hidden quests, and change how the world responds to you.</p>
+  <p>In Elfvian, every path is a choice, every battle is a test, and every legend begins with you. <strong>Will you survive… or become part of the world’s forgotten history?</strong></p>
+</section>
+
+<!-- Gameplay Section -->
+<section id="gameplay">
+  <h2>Gameplay</h2>
+  <p>Explore the magic, fight epic battles, and uncover hidden secrets.</p>
+  <div class="gameplay-images">
+    <img src="CoverImages/PosterCoverBack.png" alt="Elfvian Gameplay Poster" />
+    <img src="CoverImages/PosterCoverSide.png" alt="Elfvian Gameplay Poster Part 1" />
+  </div>
+</section>
+
+<!-- Key Features -->
+<section id="features">
+  <h2>Key Features</h2>
+  <ul class="features">
+    <li>Open-world exploration with diverse landscapes and hidden areas.</li>
+    <li>Combat against monsters using weapons, magic, and strategy.</li>
+    <li>Collect rare artifacts, enchanted items, and spells.</li>
+    <li>Dynamic NPC interactions and branching storylines.</li>
+    <li>Quests and achievements that impact the game world.</li>
+    <li>Pixel art / fantasy-inspired visuals for an immersive experience.</li>
+  </ul>
+</section>
+
+<!-- System Requirements -->
+<section id="system">
+  <h2>System Requirements</h2>
+  <table>
+    <tr>
+      <th>Minimum</th>
+      <th>Recommended</th>
+    </tr>
+    <tr>
+      <td>
+        OS: Windows 10 / Linux / macOS<br>
+        Processor: Intel i3 / AMD Ryzen 3<br>
+        Memory: 4 GB RAM<br>
+        Graphics: Intel HD 4000 / AMD Radeon<br>
+        Storage: 2 GB available space
+      </td>
+      <td>
+        OS: Windows 11 / Linux / macOS<br>
+        Processor: Intel i5 / AMD Ryzen 5<br>
+        Memory: 8 GB RAM<br>
+        Graphics: NVIDIA GTX 1050 / AMD RX 560<br>
+        Storage: 4 GB available space
+      </td>
+    </tr>
+  </table>
+</section>
+
+<!-- Download & Play -->
+<div class="download" id="download">
+  <h2>Download & Play</h2>
+  <p>
+    <a class="button" href="#">Download Elfvian</a>
+    <a class="button" href="#">Game Trailer</a>
+    <a class="button" href="#">Official Wiki</a>
+  </p>
+</div>
+
+<!-- Connect with Us -->
+<div class="connect" id="connect">
+  <h2>Connect with Us</h2>
+  <p>
+    <a class="button" href="https://twitter.com/yourgamehandle" target="_blank">Twitter</a>
+    <a class="button" href="https://discord.gg/yourdiscord" target="_blank">Discord</a>
+    <a class="button" href="https://www.youtube.com/yourchannel" target="_blank">YouTube</a>
+  </p>
+</div>
+
+<!-- Footer -->
+<footer>
+  &copy; 2024 Elfvian. All rights reserved.
+</footer>
+
+</body>
+</html>
